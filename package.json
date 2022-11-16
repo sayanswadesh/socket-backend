@@ -1,0 +1,10 @@
+{
+  "name": "one-to-chat",
+  "version": "1.0.0",
+  "description": "One to chat socket connaction",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.11.0"
+  }
+}
